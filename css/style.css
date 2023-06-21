@@ -203,10 +203,20 @@ se modifica tamaño del menu, se oculta el main y el aside*/
         display: none;
     }
 }
+main h2 {
+    padding: 20px;
+    margin: 5px;
+    font-size:large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
 
 /* intento aliner las redes sociales */
 footer section{
     display: flex;
+}
+footer h3{
+    padding: 25px;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 #main_soluciones h2{
